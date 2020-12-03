@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">vanilla-app</string>
+    <string name="crash_me">Crash Me</string>
+    <string name="no_tasks_all">"Nothing found "</string>
+    <string name="blockIconDescription">Icon showing a block</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Enter your description here.</string>
+</resources>

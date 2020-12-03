@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">com.example.compose-app</string>
+    <string name="crash_me">Crash Me</string>
+</resources>
